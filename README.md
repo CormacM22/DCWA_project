@@ -63,3 +63,4 @@ Before running the application, make sure you have the following installed:
 - ```app.js```: Main entry point.
 - ```MongoDAO.js```: Handles interactions with MongoDB.
 - ```MySQL```: Configured using ```mysql2/promise``` for database interactions.
+<img width="959" alt="Screenshot 2024-12-06 221530" src="https://github.com/user-attachments/assets/c31e2ba7-0d29-49ac-82c3-0d0f57faaa81">
