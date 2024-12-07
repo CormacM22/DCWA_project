@@ -1,4 +1,4 @@
-# Express + MongoDB + MySQL Application
+# Store Manager
 
 This is a Node.js application built with Express, MongoDB, and MySQL. It provides a web interface to manage Managers, Stores, and Products.
 
